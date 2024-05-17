@@ -1,0 +1,1 @@
+ C:\\Users\\sakim\\StudioProjects\\diploma_16_10_remake\\.dart_tool\\flutter_build\\baedfe61320aa8d581cf9b8ae50b61ec\\native_assets.yaml: 
